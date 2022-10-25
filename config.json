@@ -1,0 +1,14 @@
+{
+    "output_directory": "/home/ivan/zoo/zoo/out",
+    "delay_range_s": {
+        "min": 0, 
+        "max": 0
+    },
+    "max_retries": 3,
+    "headers": {},
+    "logs_dir": "logs",
+    "restart": {
+        "restart_count": 3,
+        "interval_m": 0.2
+    }
+}
